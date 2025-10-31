@@ -13,8 +13,34 @@
 
 ---
 
-## 🧩 Overview
-An integrated Oracle APEX application for managing **Departments, Teachers, Students, Attendance, Projects, and Leave Requests** — built with a **Sunset Orange → Red theme** and a responsive dashboard UI.
+## 🌟 Overview
+This Oracle APEX project enables seamless management of **Departments**, **Teachers**, and **Students** with dashboards, KPIs, charts, and a leave request workflow.  
+It’s designed for academic institutions to automate their internal academic operations.
+
+---
+
+## 🧠 Features
+- 📊 Interactive dashboards with KPIs and charts  
+- 🧑‍🏫 Faculty & student management with photo storage (BLOB)  
+- 📅 Leave request & approval system  
+- 🧮 Project & attendance tracking  
+- 🎨 Themed interface (Sunset Orange → Red)  
+- 🔐 Role-based access control (Admin, Teacher, Student)
+
+  ### 👨‍🏫 Teacher Module
+  - View and manage students
+  - Submit and view their leave requests
+  - Enter attendance and project marks
+  
+  ### 🎓 Student Module
+  - View attendance, and internal marks
+  - Submit project work
+  - Semester registration
+  
+  ### 🧱 Admin Module
+  - Manage departments, teachers, students
+  - Control access and user roles
+  - KPI dashboard with charts, calendar, and low-stock alerts
 
 ---
 
@@ -35,25 +61,6 @@ An integrated Oracle APEX application for managing **Departments, Teachers, Stud
 1. Go to **App Builder → Import**
 2. Upload the exported application file: /apex_app/f12345.sql
 3. Click **Install Application → Run**
-
----
-
-## 💡 Features
-
-### 👨‍🏫 Teacher Module
-- View and manage students
-- Submit and view their leave requests
-- Enter attendance and project marks
-
-### 🎓 Student Module
-- View attendance, and internal marks
-- Submit project work
-- Semester registration
-
-### 🧱 Admin Module
-- Manage departments, teachers, students
-- Control access and user roles
-- KPI dashboard with charts, calendar, and low-stock alerts
 
 ---
 
@@ -124,6 +131,10 @@ Student-Management-System-APEX/
 
 ## 👩‍💻 Developer
 **Aishwarya K**  
-Oracle APEX & PL/SQL Developer  
+💼 Oracle APEX & PL/SQL Developer  |  📧 aishwaryakavil@gmail.com  |  🌐 www.linkedin.com/in/aishwarya-k-661870249
+
+---
+
+⭐ *If you found this project helpful, please give it a star on GitHub!* ⭐
 
 ---
