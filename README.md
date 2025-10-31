@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Oracle-APEX-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Language-PL%2FSQL-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/UI-Theme%3A%20Sunset%20Orange%20%E2%86%92%20Red-ff7e5f?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
 </p>
 
 ---
