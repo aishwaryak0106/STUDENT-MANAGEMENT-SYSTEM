@@ -131,9 +131,8 @@ Student-Management-System-APEX/
 
 ## 👩‍💻 Developer
 **Aishwarya K**  
-💼 Oracle APEX & PL/SQL Developer  |  📧 aishwaryakavil@gmail.com  |  🌐 www.linkedin.com/in/aishwarya-k-661870249
 
----
+💼 Oracle APEX & PL/SQL Developer  |  📧 aishwaryakavil@gmail.com  |  🌐 www.linkedin.com/in/aishwarya-k-661870249
 
 ⭐ *If you found this project helpful, please give it a star on GitHub!* ⭐
 
