@@ -1,4 +1,18 @@
-# 🎓 Student Management System – Oracle APEX
+<h1 align="center">🎓 Student Management System – Oracle APEX</h1>
+
+<p align="center">
+  A complete web-based solution for managing departments, teachers, and students efficiently.<br>
+  Designed with 💡 <b>Oracle APEX</b> and powered by ⚙️ <b>PL/SQL</b>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle-APEX-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-PL%2FSQL-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/UI-Theme%3A%20Sunset%20Orange%20%E2%86%92%20Red-ff7e5f?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+</p>
+
+---
 
 ## 🧩 Overview
 An integrated Oracle APEX application for managing **Departments, Teachers, Students, Attendance, Projects, and Leave Requests** — built with a **Sunset Orange → Red theme** and a responsive dashboard UI.
@@ -88,6 +102,24 @@ An integrated Oracle APEX application for managing **Departments, Teachers, Stud
    PROJECT SUBMISSION PAGE    -> <img width="960" height="540" alt="student-project-submission" src="https://github.com/user-attachments/assets/d0857ff3-8804-413d-8414-74badbab22e1" /> <img width="960" height="455" alt="student-project-submission-final" src="https://github.com/user-attachments/assets/f7ef610d-a5b4-493c-a90f-9129b70f5138" />
 
    SEMESTER REGISTRATION PAGE -> <img width="960" height="540" alt="student-sem-registration" src="https://github.com/user-attachments/assets/05d0f0b5-5dc7-4c1b-829e-ea6a5a8ce762" /> <img width="960" height="540" alt="student-sem-registration-pay" src="https://github.com/user-attachments/assets/de12a242-fa96-4f04-82c3-9c74915dbc8c" /> <img width="960" height="540" alt="student-sem-registration-paid" src="https://github.com/user-attachments/assets/52909670-3660-4a43-899b-a2e180e73efb" /> <img width="960" height="540" alt="student-sem-payslip" src="https://github.com/user-attachments/assets/6a3663f4-a9eb-4795-b0cc-7b11d514d9d3" />
+
+---
+
+Student-Management-System-APEX/
+│
+├── 📂 database/
+│   └── full_database_script.sql          # All tables, sequences, triggers, functions, procedures
+│
+├── 📂 apex_app/
+│   └── f12345.sql                        # Exported Oracle APEX application
+│
+├── 📂 docs/
+│   ├── screenshots/                      # Application screenshots
+│   │   ├── dashboard.png
+│   │   ├── student_form.png
+│   │   └── leave_request_modal.png...
+│
+└── README.md                             # Project overview and setup guide
 
 ---
 
