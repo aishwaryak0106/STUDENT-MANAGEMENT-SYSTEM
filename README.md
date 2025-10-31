@@ -116,6 +116,12 @@ It’s designed for academic institutions to automate their internal academic op
 
 💼 Oracle APEX & PL/SQL Developer  |  📧 aishwaryakavil@gmail.com  |  🌐 www.linkedin.com/in/aishwarya-k-661870249
 
-⭐ *If you found this project helpful, please give it a star on GitHub!* ⭐
 
+<p align="center">
+  Made with ❤️ using <b>Oracle APEX</b> and <b>PL/SQL</b>
+</p>
+
+<p align="center">
+  ⭐ If you found this project helpful, please consider giving it a star on GitHub! ⭐
+</p>
 ---
