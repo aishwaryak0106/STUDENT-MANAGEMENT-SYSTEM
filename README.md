@@ -62,6 +62,33 @@ An integrated Oracle APEX application for managing **Departments, Teachers, Stud
 - Pie Chart for Leave Types
 - Calendar Student Birthdays
 
+1. ADMIN DASHBOARD   -> <img width="960" height="540" alt="admin-dashboard" src="https://github.com/user-attachments/assets/c2dd6245-f0f9-484f-ba73-b7ed8bde151c" />
+2. FACULTY DASHBOARD -> <img width="960" height="540" alt="faculty-dashboard" src="https://github.com/user-attachments/assets/5ac005ac-8db4-44e1-8d29-efecf574dafc" />
+3. STUDENT DASHBOARD -> <img width="960" height="540" alt="student-dashboard" src="https://github.com/user-attachments/assets/7b4501a7-311b-425f-bafa-71992d070bf0" />
+
+ # 📊 Main Screenshots
+ # 1. LOGIN : 
+   <img width="960" height="540" alt="login" src="https://github.com/user-attachments/assets/c3def6cb-c350-4e7f-bd2b-e8e07efe0a67" />
+   
+ # 2. ADMIN : 
+   MANAGE LEAVE REQUEST PAGE -> <img width="960" height="540" alt="admin-manage-leave" src="https://github.com/user-attachments/assets/2f68ff0d-34cf-46c6-ac5c-e13d68ff4bfc" />
+ 
+   ISSUED CRITERIAS FOR MARK -> <img width="960" height="540" alt="admin-mark-criterias" src="https://github.com/user-attachments/assets/5484d4e5-841d-4eb7-9778-c06d9eadcd3c" />
+ 
+   MANAGE DEPARTMENTS PAGE   -> <img width="960" height="540" alt="department-1" src="https://github.com/user-attachments/assets/c3381962-8add-40cc-98cc-3d6f450cc8af" /> <img width="960" height="540" alt="department-2" src="https://github.com/user-attachments/assets/2ff9bc4e-f42d-4d07-a623-1d147ab726c2" />
+
+ # 3. FACULTY : 
+   ALLOT MARK PAGE         -> <img width="960" height="540" alt="teacher-allot-mark" src="https://github.com/user-attachments/assets/f7ed57d1-e18f-4712-a3fb-a2388c332866" />
+
+   ATTENDANCE PAGE         -> <img width="958" height="453" alt="teacher-attendance" src="https://github.com/user-attachments/assets/9bcc3940-fbc5-4152-b698-99d10fb9d496" />
+
+   STUDENT EVALUATION PAGE -> <img width="960" height="540" alt="teacher-student-evaluation" src="https://github.com/user-attachments/assets/e4cca98c-49aa-427a-9788-6424e41ddb55" />
+
+ # 4. STUDENT :
+   PROJECT SUBMISSION PAGE    -> <img width="960" height="540" alt="student-project-submission" src="https://github.com/user-attachments/assets/d0857ff3-8804-413d-8414-74badbab22e1" /> <img width="960" height="455" alt="student-project-submission-final" src="https://github.com/user-attachments/assets/f7ef610d-a5b4-493c-a90f-9129b70f5138" />
+
+   SEMESTER REGISTRATION PAGE -> <img width="960" height="540" alt="student-sem-registration" src="https://github.com/user-attachments/assets/05d0f0b5-5dc7-4c1b-829e-ea6a5a8ce762" /> <img width="960" height="540" alt="student-sem-registration-pay" src="https://github.com/user-attachments/assets/de12a242-fa96-4f04-82c3-9c74915dbc8c" /> <img width="960" height="540" alt="student-sem-registration-paid" src="https://github.com/user-attachments/assets/52909670-3660-4a43-899b-a2e180e73efb" /> <img width="960" height="540" alt="student-sem-payslip" src="https://github.com/user-attachments/assets/6a3663f4-a9eb-4795-b0cc-7b11d514d9d3" />
+
 ---
 
 ## 👩‍💻 Developer
