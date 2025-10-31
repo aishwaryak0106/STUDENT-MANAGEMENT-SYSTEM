@@ -111,24 +111,6 @@ It’s designed for academic institutions to automate their internal academic op
 
 ---
 
-Student-Management-System-APEX/
-│
-├── 📂 database/
-│   └── full_database_script.sql          # All tables, sequences, triggers, functions, procedures
-│
-├── 📂 apex_app/
-│   └── f12345.sql                        # Exported Oracle APEX application
-│
-├── 📂 docs/
-│   ├── screenshots/                      # Application screenshots
-│   │   ├── dashboard.png
-│   │   ├── student_form.png
-│   │   └── leave_request_modal.png...
-│
-└── README.md                             # Project overview and setup guide
-
----
-
 ## 👩‍💻 Developer
 **Aishwarya K**  
 
