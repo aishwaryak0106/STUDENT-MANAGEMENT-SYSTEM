@@ -2,7 +2,7 @@
 
 <p align="center">
   A complete web-based solution for managing departments, teachers, and students efficiently.<br>
-  Designed with 💡 <b>Oracle APEX</b> and powered by ⚙️ <b>PL/SQL</b>.
+  Designed with 
 </p>
 
 <p align="center">
@@ -71,7 +71,6 @@ It’s designed for academic institutions to automate their internal academic op
 | App Builder    | Oracle APEX 23.x              |
 | Programming    | PL/SQL, SQL, JavaScript, HTML |
 | Authentication | Custom role-based login       |
-| Styling        | Sunset Orange → Red theme     |
  ------------------------------------------------
 ---
 
